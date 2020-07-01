@@ -1,9 +1,8 @@
 # paper-trade
 Virtual trading platform built using Django framework
 ## Description
-Papertrade is virtual-trading platform built using Django framework.
-this project is currently under development but will be ready and deployed live soon. 
-if you are interested in knowing more then contact me.
+this project is currently under development and it will be ready and deployed live soon.<br>
+if you are interested in knowing more then contact me.<br>
 (for contact links visit my blog https://rajnivp.github.io)
 ## Screenshots
 <p align="center">
